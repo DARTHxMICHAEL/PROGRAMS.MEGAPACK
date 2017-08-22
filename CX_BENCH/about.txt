@@ -1,0 +1,1 @@
+This is very light, fast and easy in use CPU benchmark. The score is in milisecond (less is better). Program shows also basic computer specification.
