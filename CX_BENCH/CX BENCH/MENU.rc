@@ -1,0 +1,18 @@
+#include "resource.h"
+/*
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit", ID_FILE_EXIT
+    END
+
+    POPUP "&Stuff"
+    BEGIN
+        MENUITEM "&Web site...", ID_STUFF_GO
+        MENUITEM "Go somewhere else", 0, GRAYED
+    END
+END
+*/
+IDI_MYICON ICON "3.ico"
+
